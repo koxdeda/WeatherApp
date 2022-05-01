@@ -14,4 +14,4 @@
 .cxx
 local.properties
 /app/src/main/java/com/example/apitest/
-.Keys.kt
+/app/src/main/java/com/example/apitest/Keys.kt
