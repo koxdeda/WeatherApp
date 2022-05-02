@@ -3,7 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/79119/AndroidStudioProjects/ApiTest/app/src/main/res/drawable/cloud.xml" value="0.1" />
+        <entry key="..\:/Users/79119/AndroidStudioProjects/ApiTest/app/src/main/res/layout/activity_main.xml" value="0.1778115501519757" />
         <entry key="..\:/Users/79119/AndroidStudioProjects/ApiTest/app/src/main/res/layout/dialog_custom_progress.xml" value="0.10081053698074975" />
+        <entry key="..\:/Users/79119/AndroidStudioProjects/ApiTest/app/src/main/res/menu/menu_main.xml" value="0.1" />
       </map>
     </option>
   </component>
